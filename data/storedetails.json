@@ -1,0 +1,42 @@
+{
+  "services": {
+    "locator": {
+      "data": {
+            "zip": "53210",
+            "storeType": "Type1",
+            "storeTime": [
+              {
+                "date": null,
+                "dayOfWeek": 0,
+                "closeTime": null,
+                "openTime": null,
+                "specialDescription": null,
+                "status": "closed"
+              },
+              {
+                "date": null,
+                "dayOfWeek": 1,
+                "closeTime": null,
+                "openTime": null,
+                "specialDescription": null,
+                "status": "closed"
+              },
+              {
+                "date": null,
+                "dayOfWeek": 2,
+                "closeTime": null,
+                "openTime": null,
+                "specialDescription": null,
+                "status": "closed"
+              }
+            ],
+            "city": "Moon Ville",
+            "name": "Lunar Base",
+            "storeID": "15",
+            "phone": "4444444444",
+            "address": "moon",
+            "state": "MOON"
+      }
+    }
+  }
+}
